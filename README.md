@@ -1,7 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kwenzokuhle Dungulu
 ===========================================================================================================================================
-
-Web developer
+Information Systems graduand
 -------------
 
 I have been learning to code since 2020 through my academic journey I had gained insight in HTML , JavaScript , PHP , CSS , SQL
