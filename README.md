@@ -132,13 +132,13 @@ Check out my repositories to see what I’m currently building!
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Dungul020"><img src="https://github-readme-stats.vercel.app/api?username=Dungul02&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Dungul02's GitHub stats" /></a>
+<a href="http://www.github.com/Dungul020"><img src="https://github-readme-stats.vercel.app/api?username=Dungul020&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Dungul020's GitHub stats" /></a>
 
-<a href="http://www.github.com/Dungul020"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dungul02&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Dungul020"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dungul020&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Dungul020"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Dungul02&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Dungul020"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Dungul020&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Dungul020" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dungul02&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Dungul020" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dungul020&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Education
 🔹Bachelor of Commerce degree in Information Systems-University of the Western Cape
