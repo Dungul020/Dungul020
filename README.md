@@ -7,7 +7,7 @@ I'm a Software Developer Intern with close to 1 year of industry experience and 
 
 * 🌍  I'm based in Cape Town
 * ✉️  You can contact me at [kwenzodungulu@gmail.com](mailto:kwenzodungulu@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning C#
 * 🤝  I'm open to collaborating on any Projects
 
 
@@ -115,7 +115,7 @@ Check out my repositories to see what I’m currently building!
 
 
 <p align="left">
-  <a href="https://www.github.com/YourGitHubUsername" target="_blank" rel="noreferrer">
+  <a href="https://www.github.com/Dungul020" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
@@ -123,7 +123,7 @@ Check out my repositories to see what I’m currently building!
     </picture>
   </a>
   
-  <a href="https://www.linkedin.com/in/YourLinkedInUsername" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/Kwenzo Dungulu" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
 </p>
